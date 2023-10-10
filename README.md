@@ -20,5 +20,5 @@ astro dev start
 
 1. This is the dashboard running Apache Airflow using Astronomer
 
-![Screenshot (160)](https://github.com/Bryancampos20/AirFlow-Meltano/blob/main/results/dashboard.png)
+![Screenshot (160)](https://github.com/Bryancampos20/Airflow-Astro/blob/main/results/dashboard.png)
 
